@@ -1,0 +1,28 @@
+C:\Users\User\Desktop\C_charp\exer_10\obj\Debug\net7.0\exer_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C_charp\exer_10\obj\Debug\net7.0\exer_10.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C_charp\exer_10\obj\Debug\net7.0\exer_10.AssemblyInfo.cs
+C:\Users\User\Desktop\C_charp\exer_10\obj\Debug\net7.0\exer_10.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C_charp\exer_10\bin\Debug\net7.0\exer_10.exe
+C:\Users\User\Desktop\C_charp\exer_10\bin\Debug\net7.0\exer_10.deps.json
+C:\Users\User\Desktop\C_charp\exer_10\bin\Debug\net7.0\exer_10.runtimeconfig.json
+C:\Users\User\Desktop\C_charp\exer_10\bin\Debug\net7.0\exer_10.dll
+C:\Users\User\Desktop\C_charp\exer_10\bin\Debug\net7.0\exer_10.pdb
+C:\Users\User\Desktop\C_charp\exer_10\obj\Debug\net7.0\exer_10.dll
+C:\Users\User\Desktop\C_charp\exer_10\obj\Debug\net7.0\refint\exer_10.dll
+C:\Users\User\Desktop\C_charp\exer_10\obj\Debug\net7.0\exer_10.pdb
+C:\Users\User\Desktop\C_charp\exer_10\obj\Debug\net7.0\exer_10.genruntimeconfig.cache
+C:\Users\User\Desktop\C_charp\exer_10\obj\Debug\net7.0\ref\exer_10.dll
+G:\Outros computadores\Meu computador\C_charp\exer_10\bin\Debug\net7.0\exer_10.exe
+G:\Outros computadores\Meu computador\C_charp\exer_10\bin\Debug\net7.0\exer_10.deps.json
+G:\Outros computadores\Meu computador\C_charp\exer_10\bin\Debug\net7.0\exer_10.runtimeconfig.json
+G:\Outros computadores\Meu computador\C_charp\exer_10\bin\Debug\net7.0\exer_10.dll
+G:\Outros computadores\Meu computador\C_charp\exer_10\bin\Debug\net7.0\exer_10.pdb
+G:\Outros computadores\Meu computador\C_charp\exer_10\obj\Debug\net7.0\exer_10.GeneratedMSBuildEditorConfig.editorconfig
+G:\Outros computadores\Meu computador\C_charp\exer_10\obj\Debug\net7.0\exer_10.AssemblyInfoInputs.cache
+G:\Outros computadores\Meu computador\C_charp\exer_10\obj\Debug\net7.0\exer_10.AssemblyInfo.cs
+G:\Outros computadores\Meu computador\C_charp\exer_10\obj\Debug\net7.0\exer_10.csproj.CoreCompileInputs.cache
+G:\Outros computadores\Meu computador\C_charp\exer_10\obj\Debug\net7.0\exer_10.dll
+G:\Outros computadores\Meu computador\C_charp\exer_10\obj\Debug\net7.0\refint\exer_10.dll
+G:\Outros computadores\Meu computador\C_charp\exer_10\obj\Debug\net7.0\exer_10.pdb
+G:\Outros computadores\Meu computador\C_charp\exer_10\obj\Debug\net7.0\exer_10.genruntimeconfig.cache
+G:\Outros computadores\Meu computador\C_charp\exer_10\obj\Debug\net7.0\ref\exer_10.dll

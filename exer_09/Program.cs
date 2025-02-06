@@ -1,0 +1,14 @@
+﻿int n, tab;
+Console.Write("Digite uma tabuada entre 0 e 10: ");
+tab = int.Parse(Console.ReadLine());
+n = 0;
+Console.WriteLine($"{++n} x {tab} = {n*tab}");
+Console.WriteLine($"{++n} x {tab} = {n*tab}");
+Console.WriteLine($"{++n} x {tab} = {n*tab}");
+Console.WriteLine($"{++n} x {tab} = {n*tab}");
+Console.WriteLine($"{++n} x {tab} = {n*tab}");
+Console.WriteLine($"{++n} x {tab} = {n*tab}");
+Console.WriteLine($"{++n} x {tab} = {n*tab}");
+Console.WriteLine($"{++n} x {tab} = {n*tab}");
+Console.WriteLine($"{++n} x {tab} = {n*tab}");
+Console.WriteLine($"{++n} x {tab} = {n*tab}");
