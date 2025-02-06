@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\C_charp\exer_24\obj\Debug\net7.0\exer_24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C_charp\exer_24\obj\Debug\net7.0\exer_24.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C_charp\exer_24\obj\Debug\net7.0\exer_24.AssemblyInfo.cs
+C:\Users\User\Desktop\C_charp\exer_24\obj\Debug\net7.0\exer_24.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C_charp\exer_24\bin\Debug\net7.0\exer_24.exe
+C:\Users\User\Desktop\C_charp\exer_24\bin\Debug\net7.0\exer_24.deps.json
+C:\Users\User\Desktop\C_charp\exer_24\bin\Debug\net7.0\exer_24.runtimeconfig.json
+C:\Users\User\Desktop\C_charp\exer_24\bin\Debug\net7.0\exer_24.dll
+C:\Users\User\Desktop\C_charp\exer_24\bin\Debug\net7.0\exer_24.pdb
+C:\Users\User\Desktop\C_charp\exer_24\obj\Debug\net7.0\exer_24.dll
+C:\Users\User\Desktop\C_charp\exer_24\obj\Debug\net7.0\refint\exer_24.dll
+C:\Users\User\Desktop\C_charp\exer_24\obj\Debug\net7.0\exer_24.pdb
+C:\Users\User\Desktop\C_charp\exer_24\obj\Debug\net7.0\exer_24.genruntimeconfig.cache
+C:\Users\User\Desktop\C_charp\exer_24\obj\Debug\net7.0\ref\exer_24.dll

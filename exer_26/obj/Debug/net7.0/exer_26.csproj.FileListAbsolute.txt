@@ -1,0 +1,28 @@
+C:\Users\User\Desktop\C_charp\exer_26\bin\Debug\net7.0\exer_26.exe
+C:\Users\User\Desktop\C_charp\exer_26\bin\Debug\net7.0\exer_26.deps.json
+C:\Users\User\Desktop\C_charp\exer_26\bin\Debug\net7.0\exer_26.runtimeconfig.json
+C:\Users\User\Desktop\C_charp\exer_26\bin\Debug\net7.0\exer_26.dll
+C:\Users\User\Desktop\C_charp\exer_26\bin\Debug\net7.0\exer_26.pdb
+C:\Users\User\Desktop\C_charp\exer_26\obj\Debug\net7.0\exer_26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C_charp\exer_26\obj\Debug\net7.0\exer_26.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C_charp\exer_26\obj\Debug\net7.0\exer_26.AssemblyInfo.cs
+C:\Users\User\Desktop\C_charp\exer_26\obj\Debug\net7.0\exer_26.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C_charp\exer_26\obj\Debug\net7.0\exer_26.dll
+C:\Users\User\Desktop\C_charp\exer_26\obj\Debug\net7.0\refint\exer_26.dll
+C:\Users\User\Desktop\C_charp\exer_26\obj\Debug\net7.0\exer_26.pdb
+C:\Users\User\Desktop\C_charp\exer_26\obj\Debug\net7.0\exer_26.genruntimeconfig.cache
+C:\Users\User\Desktop\C_charp\exer_26\obj\Debug\net7.0\ref\exer_26.dll
+G:\Outros computadores\Meu computador\C_charp\exer_26\obj\Debug\net7.0\exer_26.GeneratedMSBuildEditorConfig.editorconfig
+G:\Outros computadores\Meu computador\C_charp\exer_26\obj\Debug\net7.0\exer_26.AssemblyInfoInputs.cache
+G:\Outros computadores\Meu computador\C_charp\exer_26\obj\Debug\net7.0\exer_26.AssemblyInfo.cs
+G:\Outros computadores\Meu computador\C_charp\exer_26\obj\Debug\net7.0\exer_26.csproj.CoreCompileInputs.cache
+G:\Outros computadores\Meu computador\C_charp\exer_26\obj\Debug\net7.0\exer_26.dll
+G:\Outros computadores\Meu computador\C_charp\exer_26\obj\Debug\net7.0\refint\exer_26.dll
+G:\Outros computadores\Meu computador\C_charp\exer_26\obj\Debug\net7.0\exer_26.pdb
+G:\Outros computadores\Meu computador\C_charp\exer_26\bin\Debug\net7.0\exer_26.exe
+G:\Outros computadores\Meu computador\C_charp\exer_26\bin\Debug\net7.0\exer_26.deps.json
+G:\Outros computadores\Meu computador\C_charp\exer_26\bin\Debug\net7.0\exer_26.runtimeconfig.json
+G:\Outros computadores\Meu computador\C_charp\exer_26\bin\Debug\net7.0\exer_26.dll
+G:\Outros computadores\Meu computador\C_charp\exer_26\bin\Debug\net7.0\exer_26.pdb
+G:\Outros computadores\Meu computador\C_charp\exer_26\obj\Debug\net7.0\exer_26.genruntimeconfig.cache
+G:\Outros computadores\Meu computador\C_charp\exer_26\obj\Debug\net7.0\ref\exer_26.dll

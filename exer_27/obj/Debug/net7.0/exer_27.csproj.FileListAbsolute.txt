@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\C_charp\exer_27\obj\Debug\net7.0\exer_27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C_charp\exer_27\obj\Debug\net7.0\exer_27.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C_charp\exer_27\obj\Debug\net7.0\exer_27.AssemblyInfo.cs
+C:\Users\User\Desktop\C_charp\exer_27\obj\Debug\net7.0\exer_27.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C_charp\exer_27\bin\Debug\net7.0\exer_27.exe
+C:\Users\User\Desktop\C_charp\exer_27\bin\Debug\net7.0\exer_27.deps.json
+C:\Users\User\Desktop\C_charp\exer_27\bin\Debug\net7.0\exer_27.runtimeconfig.json
+C:\Users\User\Desktop\C_charp\exer_27\bin\Debug\net7.0\exer_27.dll
+C:\Users\User\Desktop\C_charp\exer_27\bin\Debug\net7.0\exer_27.pdb
+C:\Users\User\Desktop\C_charp\exer_27\obj\Debug\net7.0\exer_27.dll
+C:\Users\User\Desktop\C_charp\exer_27\obj\Debug\net7.0\refint\exer_27.dll
+C:\Users\User\Desktop\C_charp\exer_27\obj\Debug\net7.0\exer_27.pdb
+C:\Users\User\Desktop\C_charp\exer_27\obj\Debug\net7.0\exer_27.genruntimeconfig.cache
+C:\Users\User\Desktop\C_charp\exer_27\obj\Debug\net7.0\ref\exer_27.dll
