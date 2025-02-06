@@ -1,0 +1,14 @@
+G:\Outros computadores\Meu computador\C_charp\exer_43\exer_43\exer_43\obj\Debug\net6.0\exer_43.GeneratedMSBuildEditorConfig.editorconfig
+G:\Outros computadores\Meu computador\C_charp\exer_43\exer_43\exer_43\obj\Debug\net6.0\exer_43.AssemblyInfoInputs.cache
+G:\Outros computadores\Meu computador\C_charp\exer_43\exer_43\exer_43\obj\Debug\net6.0\exer_43.AssemblyInfo.cs
+G:\Outros computadores\Meu computador\C_charp\exer_43\exer_43\exer_43\obj\Debug\net6.0\exer_43.csproj.CoreCompileInputs.cache
+G:\Outros computadores\Meu computador\C_charp\exer_43\exer_43\exer_43\bin\Debug\net6.0\exer_43.exe
+G:\Outros computadores\Meu computador\C_charp\exer_43\exer_43\exer_43\bin\Debug\net6.0\exer_43.deps.json
+G:\Outros computadores\Meu computador\C_charp\exer_43\exer_43\exer_43\bin\Debug\net6.0\exer_43.runtimeconfig.json
+G:\Outros computadores\Meu computador\C_charp\exer_43\exer_43\exer_43\bin\Debug\net6.0\exer_43.dll
+G:\Outros computadores\Meu computador\C_charp\exer_43\exer_43\exer_43\bin\Debug\net6.0\exer_43.pdb
+G:\Outros computadores\Meu computador\C_charp\exer_43\exer_43\exer_43\obj\Debug\net6.0\exer_43.dll
+G:\Outros computadores\Meu computador\C_charp\exer_43\exer_43\exer_43\obj\Debug\net6.0\refint\exer_43.dll
+G:\Outros computadores\Meu computador\C_charp\exer_43\exer_43\exer_43\obj\Debug\net6.0\exer_43.pdb
+G:\Outros computadores\Meu computador\C_charp\exer_43\exer_43\exer_43\obj\Debug\net6.0\exer_43.genruntimeconfig.cache
+G:\Outros computadores\Meu computador\C_charp\exer_43\exer_43\exer_43\obj\Debug\net6.0\ref\exer_43.dll

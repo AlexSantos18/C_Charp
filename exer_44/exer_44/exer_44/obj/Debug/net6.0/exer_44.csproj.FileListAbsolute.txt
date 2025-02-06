@@ -1,0 +1,28 @@
+G:\Outros computadores\Meu computador\C_charp\exer_44\exer_44\exer_44\obj\Debug\net6.0\exer_44.GeneratedMSBuildEditorConfig.editorconfig
+G:\Outros computadores\Meu computador\C_charp\exer_44\exer_44\exer_44\obj\Debug\net6.0\exer_44.AssemblyInfoInputs.cache
+G:\Outros computadores\Meu computador\C_charp\exer_44\exer_44\exer_44\obj\Debug\net6.0\exer_44.AssemblyInfo.cs
+G:\Outros computadores\Meu computador\C_charp\exer_44\exer_44\exer_44\obj\Debug\net6.0\exer_44.csproj.CoreCompileInputs.cache
+G:\Outros computadores\Meu computador\C_charp\exer_44\exer_44\exer_44\bin\Debug\net6.0\exer_44.exe
+G:\Outros computadores\Meu computador\C_charp\exer_44\exer_44\exer_44\bin\Debug\net6.0\exer_44.deps.json
+G:\Outros computadores\Meu computador\C_charp\exer_44\exer_44\exer_44\bin\Debug\net6.0\exer_44.runtimeconfig.json
+G:\Outros computadores\Meu computador\C_charp\exer_44\exer_44\exer_44\bin\Debug\net6.0\exer_44.dll
+G:\Outros computadores\Meu computador\C_charp\exer_44\exer_44\exer_44\bin\Debug\net6.0\exer_44.pdb
+G:\Outros computadores\Meu computador\C_charp\exer_44\exer_44\exer_44\obj\Debug\net6.0\exer_44.dll
+G:\Outros computadores\Meu computador\C_charp\exer_44\exer_44\exer_44\obj\Debug\net6.0\refint\exer_44.dll
+G:\Outros computadores\Meu computador\C_charp\exer_44\exer_44\exer_44\obj\Debug\net6.0\exer_44.pdb
+G:\Outros computadores\Meu computador\C_charp\exer_44\exer_44\exer_44\obj\Debug\net6.0\exer_44.genruntimeconfig.cache
+G:\Outros computadores\Meu computador\C_charp\exer_44\exer_44\exer_44\obj\Debug\net6.0\ref\exer_44.dll
+C:\Users\User\Desktop\C_charp\exer_44\exer_44\exer_44\bin\Debug\net6.0\exer_44.exe
+C:\Users\User\Desktop\C_charp\exer_44\exer_44\exer_44\bin\Debug\net6.0\exer_44.deps.json
+C:\Users\User\Desktop\C_charp\exer_44\exer_44\exer_44\bin\Debug\net6.0\exer_44.runtimeconfig.json
+C:\Users\User\Desktop\C_charp\exer_44\exer_44\exer_44\bin\Debug\net6.0\exer_44.dll
+C:\Users\User\Desktop\C_charp\exer_44\exer_44\exer_44\bin\Debug\net6.0\exer_44.pdb
+C:\Users\User\Desktop\C_charp\exer_44\exer_44\exer_44\obj\Debug\net6.0\exer_44.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C_charp\exer_44\exer_44\exer_44\obj\Debug\net6.0\exer_44.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C_charp\exer_44\exer_44\exer_44\obj\Debug\net6.0\exer_44.AssemblyInfo.cs
+C:\Users\User\Desktop\C_charp\exer_44\exer_44\exer_44\obj\Debug\net6.0\exer_44.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C_charp\exer_44\exer_44\exer_44\obj\Debug\net6.0\exer_44.dll
+C:\Users\User\Desktop\C_charp\exer_44\exer_44\exer_44\obj\Debug\net6.0\refint\exer_44.dll
+C:\Users\User\Desktop\C_charp\exer_44\exer_44\exer_44\obj\Debug\net6.0\exer_44.pdb
+C:\Users\User\Desktop\C_charp\exer_44\exer_44\exer_44\obj\Debug\net6.0\exer_44.genruntimeconfig.cache
+C:\Users\User\Desktop\C_charp\exer_44\exer_44\exer_44\obj\Debug\net6.0\ref\exer_44.dll
