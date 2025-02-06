@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\C_charp\exer_37\exer_37\exer_37\bin\Debug\net6.0\exer_37.exe
+C:\Users\User\Desktop\C_charp\exer_37\exer_37\exer_37\bin\Debug\net6.0\exer_37.deps.json
+C:\Users\User\Desktop\C_charp\exer_37\exer_37\exer_37\bin\Debug\net6.0\exer_37.runtimeconfig.json
+C:\Users\User\Desktop\C_charp\exer_37\exer_37\exer_37\bin\Debug\net6.0\exer_37.dll
+C:\Users\User\Desktop\C_charp\exer_37\exer_37\exer_37\bin\Debug\net6.0\exer_37.pdb
+C:\Users\User\Desktop\C_charp\exer_37\exer_37\exer_37\obj\Debug\net6.0\exer_37.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C_charp\exer_37\exer_37\exer_37\obj\Debug\net6.0\exer_37.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C_charp\exer_37\exer_37\exer_37\obj\Debug\net6.0\exer_37.AssemblyInfo.cs
+C:\Users\User\Desktop\C_charp\exer_37\exer_37\exer_37\obj\Debug\net6.0\exer_37.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C_charp\exer_37\exer_37\exer_37\obj\Debug\net6.0\exer_37.dll
+C:\Users\User\Desktop\C_charp\exer_37\exer_37\exer_37\obj\Debug\net6.0\refint\exer_37.dll
+C:\Users\User\Desktop\C_charp\exer_37\exer_37\exer_37\obj\Debug\net6.0\exer_37.pdb
+C:\Users\User\Desktop\C_charp\exer_37\exer_37\exer_37\obj\Debug\net6.0\exer_37.genruntimeconfig.cache
+C:\Users\User\Desktop\C_charp\exer_37\exer_37\exer_37\obj\Debug\net6.0\ref\exer_37.dll
+G:\Outros computadores\Meu computador\C_charp\exer_37\exer_37\exer_37\obj\Debug\net6.0\exer_37.dll
+G:\Outros computadores\Meu computador\C_charp\exer_37\exer_37\exer_37\obj\Debug\net6.0\refint\exer_37.dll
+G:\Outros computadores\Meu computador\C_charp\exer_37\exer_37\exer_37\obj\Debug\net6.0\exer_37.pdb
