@@ -1,0 +1,14 @@
+G:\Outros computadores\Meu computador\C_charp\exer_39\exer_39\exer_39\bin\Debug\net6.0\exer_39.exe
+G:\Outros computadores\Meu computador\C_charp\exer_39\exer_39\exer_39\bin\Debug\net6.0\exer_39.deps.json
+G:\Outros computadores\Meu computador\C_charp\exer_39\exer_39\exer_39\bin\Debug\net6.0\exer_39.runtimeconfig.json
+G:\Outros computadores\Meu computador\C_charp\exer_39\exer_39\exer_39\bin\Debug\net6.0\exer_39.dll
+G:\Outros computadores\Meu computador\C_charp\exer_39\exer_39\exer_39\bin\Debug\net6.0\exer_39.pdb
+G:\Outros computadores\Meu computador\C_charp\exer_39\exer_39\exer_39\obj\Debug\net6.0\exer_39.GeneratedMSBuildEditorConfig.editorconfig
+G:\Outros computadores\Meu computador\C_charp\exer_39\exer_39\exer_39\obj\Debug\net6.0\exer_39.AssemblyInfoInputs.cache
+G:\Outros computadores\Meu computador\C_charp\exer_39\exer_39\exer_39\obj\Debug\net6.0\exer_39.AssemblyInfo.cs
+G:\Outros computadores\Meu computador\C_charp\exer_39\exer_39\exer_39\obj\Debug\net6.0\exer_39.csproj.CoreCompileInputs.cache
+G:\Outros computadores\Meu computador\C_charp\exer_39\exer_39\exer_39\obj\Debug\net6.0\exer_39.dll
+G:\Outros computadores\Meu computador\C_charp\exer_39\exer_39\exer_39\obj\Debug\net6.0\refint\exer_39.dll
+G:\Outros computadores\Meu computador\C_charp\exer_39\exer_39\exer_39\obj\Debug\net6.0\exer_39.pdb
+G:\Outros computadores\Meu computador\C_charp\exer_39\exer_39\exer_39\obj\Debug\net6.0\exer_39.genruntimeconfig.cache
+G:\Outros computadores\Meu computador\C_charp\exer_39\exer_39\exer_39\obj\Debug\net6.0\ref\exer_39.dll
