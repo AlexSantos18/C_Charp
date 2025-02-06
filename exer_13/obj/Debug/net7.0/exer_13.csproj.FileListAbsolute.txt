@@ -1,0 +1,14 @@
+G:\Outros computadores\Meu computador\C_charp\exer_13\obj\Debug\net7.0\exer_13.GeneratedMSBuildEditorConfig.editorconfig
+G:\Outros computadores\Meu computador\C_charp\exer_13\obj\Debug\net7.0\exer_13.AssemblyInfoInputs.cache
+G:\Outros computadores\Meu computador\C_charp\exer_13\obj\Debug\net7.0\exer_13.AssemblyInfo.cs
+G:\Outros computadores\Meu computador\C_charp\exer_13\obj\Debug\net7.0\exer_13.csproj.CoreCompileInputs.cache
+G:\Outros computadores\Meu computador\C_charp\exer_13\bin\Debug\net7.0\exer_13.exe
+G:\Outros computadores\Meu computador\C_charp\exer_13\bin\Debug\net7.0\exer_13.deps.json
+G:\Outros computadores\Meu computador\C_charp\exer_13\bin\Debug\net7.0\exer_13.runtimeconfig.json
+G:\Outros computadores\Meu computador\C_charp\exer_13\bin\Debug\net7.0\exer_13.dll
+G:\Outros computadores\Meu computador\C_charp\exer_13\bin\Debug\net7.0\exer_13.pdb
+G:\Outros computadores\Meu computador\C_charp\exer_13\obj\Debug\net7.0\exer_13.dll
+G:\Outros computadores\Meu computador\C_charp\exer_13\obj\Debug\net7.0\refint\exer_13.dll
+G:\Outros computadores\Meu computador\C_charp\exer_13\obj\Debug\net7.0\exer_13.pdb
+G:\Outros computadores\Meu computador\C_charp\exer_13\obj\Debug\net7.0\exer_13.genruntimeconfig.cache
+G:\Outros computadores\Meu computador\C_charp\exer_13\obj\Debug\net7.0\ref\exer_13.dll
